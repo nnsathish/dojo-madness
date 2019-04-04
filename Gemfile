@@ -21,6 +21,8 @@ gem 'puma', '~> 3.7'
 # gem 'bcrypt', '~> 3.1.7'
 #
 gem 'active_model_serializers', '~> 0.10.9'
+gem 'httparty', '~> 0.16.4'
+gem 'kaminari', '~> 1.1.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
